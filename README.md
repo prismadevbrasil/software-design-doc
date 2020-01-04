@@ -10,3 +10,5 @@ Articles and its authors:
 
 - [How to write a good software design doc
 ](https://www.freecodecamp.org/news/how-to-write-a-good-software-design-document-66fcf019569c/) by Angela Zhang
+- [Why Writing Software Design Documents Matters
+](https://www.toptal.com/freelance/why-design-documents-matter)
